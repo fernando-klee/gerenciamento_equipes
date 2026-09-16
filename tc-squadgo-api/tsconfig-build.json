@@ -1,0 +1,7 @@
+{
+	"extends": "./tsconfig.json",
+	"removeComments": true,
+	"exclude": [
+		"tests"
+	]
+}

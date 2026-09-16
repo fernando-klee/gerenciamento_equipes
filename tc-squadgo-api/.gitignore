@@ -1,0 +1,10 @@
+node_modules
+dist
+coverage
+.env
+.env.staging
+.env.production
+.env.development
+ormconfig.json
+tmp
+2ormconfig2.naousarjson
